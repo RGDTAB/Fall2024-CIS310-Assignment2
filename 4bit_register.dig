@@ -13,16 +13,6 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Clk</string>
-        </entry>
-      </elementAttributes>
-      <pos x="260" y="300"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
           <string>D</string>
         </entry>
         <entry>
@@ -116,6 +106,16 @@
         </entry>
       </elementAttributes>
       <pos x="1000" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Clock</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Clk</string>
+        </entry>
+      </elementAttributes>
+      <pos x="260" y="300"/>
     </visualElement>
   </visualElements>
   <wires>
